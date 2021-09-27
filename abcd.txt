@@ -1,2 +1,6 @@
 abcdefg
+<<<<<<< HEAD
 win add
+=======
+hijklmno
+>>>>>>> 403e6b5974746a30b422e054c9455858c2b2f9d4
