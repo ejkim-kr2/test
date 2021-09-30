@@ -76,3 +76,11 @@ openpilot is released under the MIT license. Some parts of the software are rele
 
 Integration with Stock Features
 ------
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
