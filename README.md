@@ -31,5 +31,48 @@ URL표기 => <https://github.com/>  하이퍼링크 =>  [이지스퍼블리싱](
 | ----------| ------------------------------| ------------------| -----------------| -------------------| ------------------|
 | Acura     | ILX 2016-19                   | AcuraWatch Plus   | openpilot        | 25mph<sup>1</sup>  | 25mph             |
 
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+
 Integration with Stock Features
 ------
