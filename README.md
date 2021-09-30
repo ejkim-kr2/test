@@ -25,3 +25,11 @@ URL표기 => <https://github.com/>  하이퍼링크 =>  [이지스퍼블리싱](
 
 ![이미지](./Mark.png) 이미지 파일명은 한글은 안됩니다.
 
+* [Integration with Stock Features](#integration-with-stock-features)
+
+| Make      | Model (US Market Reference)   | Supported Package | ACC              | No ACC accel below | No ALC below      |
+| ----------| ------------------------------| ------------------| -----------------| -------------------| ------------------|
+| Acura     | ILX 2016-19                   | AcuraWatch Plus   | openpilot        | 25mph<sup>1</sup>  | 25mph             |
+
+Integration with Stock Features
+------
