@@ -24,4 +24,5 @@ df = new_df[['usage','T_seg']]
 ```
 URL표기 => <https://github.com/>  하이퍼링크 =>  [이지스퍼블리싱](http://www.easyspub.co.kr)  도움말 => [구글](http://google.com, "검색 사이트")
 
-![이미지](./제목 없음.png)
+![이미지](./Mark.png) 이미지 파일명은 한글은 안됩니다.
+
