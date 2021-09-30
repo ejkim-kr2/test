@@ -84,3 +84,13 @@ openpilot is released under the MIT license. Some parts of the software are rele
 openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
 openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
 openpilot is released under the MIT license. Some parts of the software are released under other licenses as specified.
+
+
+1) Start the CARLA server on first terminal
+```
+bash -c "$(curl https://raw.githubusercontent.com/commaai/openpilot/master/tools/sim/start_carla.sh)"
+```
+2) Start openpilot on second terminal
+```
+bash -c "$(curl https://raw.githubusercontent.com/commaai/openpilot/master/tools/sim/start_openpilot_docker.sh)"
+```
